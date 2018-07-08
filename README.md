@@ -6,7 +6,7 @@
 * <a href="https://github.com/ooade/30-Days-Of-Elixir">Elixir Journal</a>
 * <a href="https://medium.com/quick-code/the-best-tutorials-to-learn-elixir-for-beginners-3d805ebfe5d3">Best Tutorials to Learn Elixir for Beginners</a>
 * <a href="https://www.tutorialspoint.com/elixir/index.htm">Elixir |> Tutorials On Point</a>
-* <a href="http://www.newthinktank.com/2017/04/learn-elixir-one-video/"> Learn Elixir in One Video</a> by __Derek Banas__
+* <a href="http://www.newthinktank.com/2017/04/learn-elixir-one-video/"> Learn Elixir in One Video</a> by __Derek Banas__ <a href="https://www.youtube.com/watch?v=pBNOavRoNL0">_(VIDEO)_</a>
 
 <img src="https://github.com/manguilar22/icons/blob/master/docker.svg" width="150" height="200"/>
 
